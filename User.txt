@@ -1,3 +1,4 @@
 return {
-    {Name = "usbhsnbsosb", Expire = "permanente"}
+    ["eobli7"] = "permanente",
+    ["usuario"] = "permanente",
 }
